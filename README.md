@@ -1,3 +1,3 @@
 # robust-racoons
 
-test, test
+testing
